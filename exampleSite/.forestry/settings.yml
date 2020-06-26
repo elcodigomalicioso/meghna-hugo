@@ -15,7 +15,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/español/blog
+  path: exampleSite/content/french/blog
   label: Post (es)
   create: documents
   match: "**/*"
@@ -31,7 +31,7 @@ sections:
   templates:
   - author
 - type: directory
-  path: exampleSite/content/español/author
+  path: exampleSite/content/french/author
   label: Author (es)
   create: documents
   match: "**/*"
