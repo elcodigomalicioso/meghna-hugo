@@ -1,5 +1,5 @@
 ---
-title: DoubleDamage
+title: 0xDoubleDamage.cc
 image: ''
 email: email2@example.org
 social:
