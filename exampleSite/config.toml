@@ -15,7 +15,7 @@ weight = 1
 [Languages.fr]
 contentDir = "content/esp"
 copyright = "copyright et copie; 2020 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
-home = "Bienvenido"
+home = "Inicio"
 languageCode = "es-es"
 languageName = "Es"
 weight = 2
