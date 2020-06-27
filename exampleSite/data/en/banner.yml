@@ -1,7 +1,7 @@
 ---
 banner:
-  enable: false
-  bg_image_webp: "/images/backgrounds/security-4700815_1280.jpg"
+  enable: true
+  bg_image_webp: "/images/backgrounds/security-4700815_1280.webp"
   bg_image: "/images/backgrounds/security-4700815_1280.jpg"
   icon: ''
   title: THE MALICIOUS CODE
