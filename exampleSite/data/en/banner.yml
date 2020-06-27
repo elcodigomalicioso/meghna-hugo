@@ -1,10 +1,10 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image: "/images/backgrounds/security-4700815_1280.jpg"
   icon: ''
-  title: Asi de facil par de ballenatos
+  title: THE MALICIOUS CODE
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
     At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
   button:
